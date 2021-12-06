@@ -5,3 +5,5 @@
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy.
 - Creado por el increible equipo de Platzi.
+- Incluye ejemplos en windows, linux y mac.
+- Disponible para todas las edades.
